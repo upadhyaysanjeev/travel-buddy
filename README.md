@@ -51,6 +51,3 @@ Read the `Licence` document for more details.
 
 # Bye! 👋
 
-Hope you like this project!  
-If you use or learn from this code, please give **HAMZA ZAIDI** proper credit with a ⭐ or ❤️  
-Happy coding and safe travels! 🌍✈️
