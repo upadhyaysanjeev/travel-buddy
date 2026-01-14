@@ -1,51 +1,56 @@
-# Uber 2.0 App By React Js
+# Travel Buddy App By React JS
 
-Request a ride from 600+ airports and in 10,000+ cities around the world, the Uber 2.0 App is a great way to make your travel plans stress-free.
+Plan trips, discover routes, and move smart across cities and countries with **Travel Buddy**, your all-in-one digital companion for stress-free journeys.
 
 ## ⭐ Introduction:
 
-Hello 👋 I have Made `Uber 2.0 App` By **React JS** which is Demo App but complete fully sick & cool 😎 Responsive and Mobile Freindly **Web/App**. In this App you can go on **Ride by Mini, Go 🚙 & Bike 🚲 by cheap fares by simply Login and Signup from your Google account**.
+Hello 👋  
+I’ve built **Travel Buddy App** using **React JS**. This is a demo project, but fully functional, smooth, and modern 😎.  
+The app is **responsive**, **mobile-friendly**, and designed to help users **plan trips, choose transport options, estimate travel costs, and track journeys** with ease.
+
+With Travel Buddy, your journey starts even before you pack your bag 🎒.
 
 ## ⭐ Materials Used:
 
-- **Redux**
-- **Next JS**
-- **Mapbox Api**
-- **Tailwind CSS Styled Components**
-- **Firebase🔥 Authentication** (By `Google Login / Logout`)
-- **Fully Mobile Responsive Friendly (App Version)**
-- **Use Car's Details from JSON** 
+- **Redux** – for state management  
+- **Next JS** – fast and scalable React framework  
+- **Mapbox API** – live maps and route visualization  
+- **Tailwind CSS & Styled Components** – clean and modern UI  
+- **Firebase🔥 Authentication** – Google Login / Logout  
+- **Fully Mobile Responsive (App-like Experience)**  
+- **Transport & Route Data from JSON**
 
 ## ⭐ Features:
 
-- `Login/logout` (You can't go to homepage without getting login) MUCH MORE FEATURES IN APP 🚀!
-- Ride on Any `🚙 UberX, Go, Mini, Auto Rickshaw, Bike 🚲`
-- Calculate the `Exact Price by Distance`
-- `Captain Details & Arival Time is less⏰`
-
+- `Login / Logout` with Google (secure access required)  
+- Choose your travel mode: `🚙 Car, 🚌 Bus, 🚆 Train, 🏍 Bike`  
+- Smart route planning with live map view 🗺️  
+- Calculate `Estimated Distance, Time & Cost`  
+- Travel companion details with `ETA ⏰`  
+- Smooth UI optimized for both desktop & mobile 🚀  
 
 ## ⭐ Run This Project:
 
-**Blog =>** [Run This Project 🚀](https://nextjs.org/docs/messages/production-start-no-build-id#possible-ways-to-fix-it)
+**Guide 👉** [Run This Project 🚀](https://nextjs.org/docs/messages/production-start-no-build-id#possible-ways-to-fix-it)
 
-- Run `npm next build` to create a production build before booting up the production server.
-- If your intention was to run the development server run `npm next dev` instead.
- 
-## ⭐ Screenshots:
+- Run `npm next build` to generate the production build  
+- Start production server using `npm next start`  
+- For development mode, use `npm next dev`
 
-https://user-images.githubusercontent.com/52501040/176752770-d406aa39-a334-4638-98c1-06239123eb0e.mp4
+## ⭐ Project Use Case:
 
-![uber ss 1](https://user-images.githubusercontent.com/52501040/176752794-bb86288b-df25-4b1c-bac4-1f3afbc60ba8.jpg)
-![uber ss 2](https://user-images.githubusercontent.com/52501040/176752796-df749dbf-ecb9-4c42-869f-1118276693a8.jpg)
-![uber ss 3](https://user-images.githubusercontent.com/52501040/176752801-06c71b9a-3adc-44e7-8ac6-c8b027daa7da.jpg)
-![uber ss 4](https://user-images.githubusercontent.com/52501040/176752805-3b7a120b-287b-4871-9f72-d6bfd6556ef3.jpg)
-![uber ss 5](https://user-images.githubusercontent.com/52501040/176752809-0cde6a62-d276-40c9-aee2-9a84bd112fe0.jpg)
-![uber ss 6](https://user-images.githubusercontent.com/52501040/176752759-9c4a4b02-3f4d-4474-9220-0eafc8af72f2.jpg)
+- Solo travelers planning city trips  
+- Daily commuters exploring route options  
+- Learning project for React + Next JS + Maps  
+- Portfolio-ready travel-based application 🌍  
 
 ## Licence
- 
-MIT LICENCE Read `Licence` document for more details ->
+
+MIT LICENCE  
+Read the `Licence` document for more details.
 
 # Bye! 👋
 
-HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+Hope you like this project!  
+If you use or learn from this code, please give **HAMZA ZAIDI** proper credit with a ⭐ or ❤️  
+Happy coding and safe travels! 🌍✈️
